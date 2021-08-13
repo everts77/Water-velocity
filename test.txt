@@ -1,2 +1,3 @@
 Test
 Testing git
+New sentence 1&2
